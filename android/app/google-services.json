@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "883131465221",
+    "project_id": "cloud-messaging-28ac2",
+    "storage_bucket": "cloud-messaging-28ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883131465221:android:5e64398e3994497fcca66c",
+        "android_client_info": {
+          "package_name": "com.firebase.NativeFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883131465221-f8tado8l19saa3ooa5mn275jqauvp734.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSW7Gmpc5d5KqOXhfHbqYDZaPfoq3snHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883131465221-f8tado8l19saa3ooa5mn275jqauvp734.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883131465221:android:06d04fe9a144873acca66c",
+        "android_client_info": {
+          "package_name": "com.nativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883131465221-f8tado8l19saa3ooa5mn275jqauvp734.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSW7Gmpc5d5KqOXhfHbqYDZaPfoq3snHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883131465221-f8tado8l19saa3ooa5mn275jqauvp734.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
