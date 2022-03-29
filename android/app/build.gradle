@@ -216,6 +216,7 @@ dependencies {
         implementation jscFlavor
     }
     implementation 'com.google.firebase:firebase-core:9.6.1'
+    compile project(':react-native-callkeep')
 }
 
 // Run this once to be able to run the application with BUCK

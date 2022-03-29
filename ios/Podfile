@@ -12,6 +12,8 @@ target 'NativeFirebase' do
     :hermes_enabled => false
   )
 
+  pod 'RNCallKeep', :path => '../node_modules/react-native-callkeep'
+
   target 'NativeFirebaseTests' do
     inherit! :complete
     # Pods for testing

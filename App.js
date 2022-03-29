@@ -1,9 +1,9 @@
 import React          from 'react';
-import PushController from './src/PushController.js';
+import IncomingCall from './src/IncomingCall';
 
 const App = () => {
   return (
-    <PushController/>
+    <IncomingCall/>
   );
 };
 
